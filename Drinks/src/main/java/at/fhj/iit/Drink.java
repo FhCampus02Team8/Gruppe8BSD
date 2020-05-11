@@ -42,4 +42,10 @@ public abstract class Drink {
     }
     public void testfuntion2(){
     }
+     public void testfuntion3(){
+   }
+    public void testfuntion4(){
+    }
+    public void testfuntion5(){
+    }
 }
