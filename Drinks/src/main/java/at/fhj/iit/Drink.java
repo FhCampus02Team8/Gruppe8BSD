@@ -39,8 +39,7 @@ public abstract class Drink {
 
     public void testfuntion1(){
     }
-    public void testfuntion2(){
-    }
+
      public void testfuntion3(){
    }
     public void testfuntion4(){
