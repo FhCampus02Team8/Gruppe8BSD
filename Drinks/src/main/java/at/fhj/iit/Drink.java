@@ -35,4 +35,6 @@ public abstract class Drink {
      * @return true when alcoholic liquids are present, otherwise false
      */
     public abstract boolean isAlcoholic();
+    
+    public void mix();
 }
