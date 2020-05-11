@@ -36,12 +36,7 @@ public abstract class Drink {
      */
     public abstract boolean isAlcoholic();
     
-
-    public void testfuntion1(){
-    }
-
-     public void testfuntion3(){
-   }
+    
     public void testfuntion4(){
     }
     public void testfuntion5(){
