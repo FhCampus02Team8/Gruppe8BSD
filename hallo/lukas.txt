@@ -3,4 +3,9 @@ Lukas
 Doppelhofer
 aus Hartberg
 Fh Campus02 
+<<<<<<< HEAD
 2tes semester
+=======
+2tes semester
+new branch
+>>>>>>> function
